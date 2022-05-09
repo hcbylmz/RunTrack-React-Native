@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931833937899",
+    "project_id": "run-track-118be",
+    "storage_bucket": "run-track-118be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931833937899:android:b2645f7dc3ba7f4d1223ae",
+        "android_client_info": {
+          "package_name": "com.runtrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931833937899-ukr1utb36ep6p8ld4snoho5600o0es9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "YOUR_API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931833937899-ukr1utb36ep6p8ld4snoho5600o0es9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
